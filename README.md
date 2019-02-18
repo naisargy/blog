@@ -1,23 +1,23 @@
 # blog
-hunted house story
-# <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">es6-twilio-chatbot</a>
+haunted house story
+# <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">Haunted House Story</a>
 
-I got the user interface for the web from a student of mine, Pat Wilken.
+It is a Halloween holiday special haunted house story.
 
-A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
+In this story, there is a task to find diamonds inside the haunted house.
 
-A popular theme for the upcoming Halloween holiday is to make haunted house simulations. You will make a choose your own adventure for a haunted house presented as a Twilio chatbot. 
+During this task, person has to face many scary items insode the house.
 
-Marking
+Different Locations and Places for find Diamonds
 -----
 
-|Element|Out Of|
+|Location|Places|
 |---|---|
-|get a game or choose your own adventure in es6| 50|
-|multiplayer - each person plays their own game against the bot.| 10|
-|count case and if statements|2/3 each up to 20 points|
-|spelling and grammar|10|
-|on time|10|
+|Hall| Behind-sofa and Side-drawer|
+|Bedroom| Drawer and Closet|
+|Kitchen|Oven and Cupboard|
+|Store-room|Cardboard box|
+
 
 
 
